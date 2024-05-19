@@ -20,5 +20,4 @@ $git clone https://github.com/vatika17/signlanguage_recognition.git
 $cd signlanguage_recognition
 $python model_test.py
 ~~~~
-# Demo
-https://youtu.be/168r68b_yfM
+
